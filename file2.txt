@@ -1,1 +1,3 @@
 this is my file 2 in one folder for git course
+my name is payel bera
+doing bsc computer science
