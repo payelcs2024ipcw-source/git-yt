@@ -1,0 +1,1 @@
+this is the course text file for git-course 
