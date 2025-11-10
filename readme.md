@@ -1,5 +1,5 @@
 ## Instal 
-thos is some installation
+this is some installation
 
 ```bash
 npm install
